@@ -13,4 +13,6 @@ example (`1_compile_and_link`) but are organized in separate directories.
 Just type `make` to build the code. To see how to use different make targets 
 and how to use `CFLAGS` argument with make, please see `Makefile`. 
 
+Notea: there is a litlle bit deeper tutorial for make in separate repo.
+
 
